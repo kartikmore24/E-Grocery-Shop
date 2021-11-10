@@ -19,3 +19,5 @@ Payment gateway used - Razorpay
 ![WhatsApp Image 2021-11-09 at 6 45 01 PM (1)](https://user-images.githubusercontent.com/69580458/140931904-864211f8-f4c7-4013-a5b1-8b389a96fb3a.jpeg)
 # Razorpay Payment Gateway
 ![WhatsApp Image 2021-11-09 at 6 45 01 PM](https://user-images.githubusercontent.com/69580458/140931946-d0991430-9419-4262-9c12-ef3a6156c470.jpeg)
+# Categories Page
+![WhatsApp Image 2021-11-10 at 1 57 07 PM](https://user-images.githubusercontent.com/69580458/141077296-0e428517-7601-4352-8fda-9555539369eb.jpeg)
