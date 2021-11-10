@@ -6,7 +6,7 @@ In this project realtime database is used.
 ## Language Used - Java
 ## IDE Used - Android Studio
 ## Database used - Firebase
-Payment gateway used - Razorpay
+## Payment gateway used - Razorpay
 # Registration Page
 ![WhatsApp Image 2021-11-09 at 6 45 29 PM](https://user-images.githubusercontent.com/69580458/140931359-6abf7f62-b6c4-49f3-8712-33b417889bef.jpeg)
 # Splash Screen
